@@ -1,6 +1,7 @@
 ## Disaster Text Detection System
 
-<img src="Image-disasters-and-hazards.jpg", alt="Image disaster and hazards theme"/>
+![disaster nlp detection](https://github.com/kinoti-m-martin/disater_nlp/blob/main/Image-disasters-and-hazards.jpg)
+
 
 The Disaster NLP Project aims to leverage Natural Language Processing (NLP) techniques to enhance the identification and classification of disaster-related information in textual data. The primary goal is to develop a robust model capable of accurately detecting and categorizing text as either disaster-related or not. This project can be instrumental in automating the analysis of vast amounts of information during emergencies, helping first responders, government agencies, and humanitarian organizations prioritize and respond effectively to crises.
 
